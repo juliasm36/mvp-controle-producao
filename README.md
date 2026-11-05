@@ -1,6 +1,6 @@
 # Controle de Produção — MVP
 
-Painel web que substitui quadros físicos de controle de produção, atualizado a partir dos relatórios exportados do ERP.
+MVP construído com IA que substitui quadros físicos de produção por um painel web alimentado pelo ERP
 
 > **Sobre este repositório:** o código não está publicado, porque o sistema foi feito para uso interno de uma empresa. Aqui estão a descrição do projeto e um vídeo de demonstração. **O vídeo usa dados fictícios**: nomes de clientes, unidades e referências foram inventados.
 
